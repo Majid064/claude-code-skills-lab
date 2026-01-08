@@ -4,7 +4,11 @@ Custom skills for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) 
 
 ## Demo
 
-https://files.catbox.moe/06eayw.mp4
+<video src="https://github.com/Majid064/claude-code-skills-lab/raw/main/A1_engmajiduog-h96x.mp4" controls="controls" style="max-width: 100%;">
+  Your browser does not support the video tag.
+</video>
+
+[Click here if video doesn't load](https://github.com/Majid064/claude-code-skills-lab/raw/main/A1_engmajiduog-h96x.mp4)
 
 ## What Are Skills?
 
