@@ -2,6 +2,12 @@
 
 Custom skills for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) that automate repetitive content and SEO workflows.
 
+## Demo
+
+https://github.com/user-attachments/assets/A1_engmajiduog-h96x.mp4
+
+[View Demo Video](A1_engmajiduog-h96x.mp4)
+
 ## What Are Skills?
 
 Skills are modular packages that extend Claude's capabilities with specialized knowledge and workflows. They transform Claude from a general-purpose assistant into a domain expert equipped with procedural knowledge for specific tasks.
@@ -50,10 +56,3 @@ Invoke any skill by name in Claude Code:
 /seo-audit
 ```
 
-## Installation
-
-Copy the `.claude/skills/` folder to your project or add individual `.skill` files to your Claude Code skills directory.
-
-## License
-
-MIT
